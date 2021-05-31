@@ -1,0 +1,16 @@
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ProgramaFidelidade.exe
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ProgramaFidelidade.deps.json
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ProgramaFidelidade.runtimeconfig.json
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ProgramaFidelidade.runtimeconfig.dev.json
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ProgramaFidelidade.dll
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ref\ProgramaFidelidade.dll
+D:\git\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\net5.0\ProgramaFidelidade.pdb
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.csprojAssemblyReference.cache
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.AssemblyInfoInputs.cache
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.AssemblyInfo.cs
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.dll
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ref\ProgramaFidelidade.dll
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.pdb
+D:\git\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\net5.0\ProgramaFidelidade.genruntimeconfig.cache
